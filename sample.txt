@@ -1,0 +1,34 @@
+COBIT 2019
+
+Apa itu COBIT 2019?
+COBIT (Control Objectives for Information and Related Technologies) 2019 adalah kerangka kerja tata kelola IT (Information Technology) yang dikembangkan oleh ISACA (Information Systems Audit and Control Association). Fokus utama COBIT adalah pada tata kelola (governance).
+COBIT 2019 membantu organisasi untuk:
+Menyelaraskan IT dengan tujuan bisnis: Memastikan bahwa investasi IT memberikan nilai tambah bagi perusahaan.
+Mengelola risiko IT: Mengidentifikasi, mengevaluasi, dan mengendalikan risiko yang terkait dengan penggunaan teknologi.
+Mencapai tujuan bisnis: Memberikan panduan untuk mengelola IT secara efektif agar dapat mendukung pencapaian tujuan strategis perusahaan.
+Memisahkan tata kelola (governance) dan manajemen (management): Ini adalah salah satu poin kunci COBIT.
+Governance: Mencakup aktivitas seperti mengevaluasi kebutuhan pemangku kepentingan (stakeholders), menetapkan arah strategis, dan memantau kinerja. Ini adalah tanggung jawab dewan direksi dan manajemen eksekutif.
+Management: Mencakup aktivitas seperti merencanakan, membangun, menjalankan, dan memantau operasional IT sehari-hari. Ini adalah tanggung jawab manajemen IT.
+
+ITIL V4
+Apa itu ITIL V4?
+ITIL (Information Technology Infrastructure Library) V4 adalah kerangka kerja untuk manajemen layanan IT (IT service management) yang dikembangkan oleh AXELOS. Fokus utama ITIL V4 adalah pada cara memberikan layanan IT yang efektif dan bernilai tinggi kepada pelanggan atau pengguna.
+ITIL V4 membantu organisasi untuk:
+Menciptakan nilai (value co-creation): Bekerja sama dengan pemangku kepentingan untuk menciptakan nilai dari layanan IT.
+Meningkatkan kualitas layanan: Memberikan panduan praktis untuk mendesain, mengelola, dan meningkatkan layanan IT.
+Mengelola layanan IT dari awal hingga akhir: Melalui konsep "Service Value System" yang fleksibel, yang terdiri dari komponen seperti Guiding Principles, Governance, Service Value Chain, Practices, dan Continuous Improvement.
+Menghadirkan layanan yang berorientasi pada pelanggan: Menekankan pentingnya pemahaman kebutuhan pelanggan dan memberikan layanan yang sesuai.
+Hubungan Antara COBIT 2019 dan ITIL V4
+Meskipun keduanya adalah kerangka kerja yang berbeda, mereka tidak saling bertentangan, melainkan saling melengkapi. Analogi yang paling sering digunakan adalah:
+COBIT 2019 menjawab pertanyaan "apa yang harus kita lakukan?" (tingkat tata kelola)
+ITIL V4 menjawab pertanyaan "bagaimana kita melakukannya?" (tingkat manajemen operasional)
+Berikut adalah beberapa poin kunci mengenai hubungan keduanya:
+COBIT 2019 sebagai Kerangka Kerja Tata Kelola (Governance), ITIL V4 sebagai Kerangka Kerja Manajemen (Management):
+COBIT 2019 berfokus pada gambaran besar (dari atas ke bawah). Ini menetapkan tujuan bisnis, risiko, dan kontrol yang harus dipenuhi oleh IT.
+ITIL V4 berfokus pada operasional sehari-hari (dari bawah ke atas). Ini menyediakan praktik terbaik yang terperinci untuk bagaimana tim IT dapat mengelola layanan untuk mencapai tujuan yang ditetapkan oleh tata kelola.
+ITIL V4 Dapat Digunakan untuk Mengimplementasikan COBIT 2019:
+COBIT 2019 mendefinisikan "kontrol" dan "tujuan manajemen" yang diperlukan. ITIL V4 menyediakan "praktik manajemen" yang dapat digunakan untuk mencapai kontrol dan tujuan tersebut.
+Sebagai contoh, COBIT 2019 mungkin memiliki tujuan manajemen seperti "Mengelola Insiden dan Permintaan Layanan" (proses DSS02). ITIL V4 memiliki praktik yang sangat terperinci, seperti "Incident Management" dan "Service Request Management," yang menjelaskan langkah-langkah praktis untuk mencapai tujuan tersebut.
+
+Keduanya Mendukung Tata Kelola IT yang Menyeluruh:
+Dengan menggunakan COBIT 2019 dan ITIL V4 secara bersamaan, organisasi dapat memastikan bahwa tata kelola IT mereka kuat (dengan COBIT) dan manajemen layanan IT mereka efisien dan efektif (dengan ITIL).
